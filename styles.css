@@ -16,27 +16,38 @@
     width: 100%;
     background-color: #5C5C5C;
     height: 100px;
-
 }
 
+
+
 .navbar a {
-    font-size: 24px;
-    line-height: 36px;
-    font-family: 'the_next_fontregular';
-    float: right;
-    display: block;
-    color: #000000;
     text-align: center;
-    padding-top: 30px;
-    
-    padding-right: 141px;
+    font-family: 'the_next_fontregular';
+    color: #000000;
+    padding: 0.5em 1.5em;
     text-decoration: none;
+    font-size: 24px;
+    line-height: 100px;
 }
 
 .navbar a:hover {
-    padding-bottom: 25px;
-    background-image: "./img/blackRectangle.png";
+    background-color: #ddd;
+    color: black;
+    
+}
+.navbar a.active {
+    background-color: chocolate;
+    color:white;
+}
 
+.navbar-right {
+    float: right;
+    padding-right: 3em;
+}
+
+.navbar-left {
+    float: left;
+    padding-left: 3em;
 }
 
 .main {
