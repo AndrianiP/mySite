@@ -5,15 +5,19 @@
     left: 0;
     width: 100%;
     background-color: #5C5C5C;
+    height: 105px;
 
 }
 
 .navbar a {
+    font-size: 36px;
+    line-height: 36px;
+    font-family: The Next Font;
     float: right;
     display: block;
-    color: #c9c9c9;
+    color: #000000;
     text-align: center;
-    padding: 14px 16px;
+    padding-right: 141px;
     text-decoration: none;
 }
 
