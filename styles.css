@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'the_next_fontregular';
+    src: url('./fonts/thenextfont-webfont.woff') format('woff2'),
+         url('./fonts/thenextfont-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
 .navbar {
     position: fixed;
     overflow: hidden;
@@ -5,27 +15,30 @@
     left: 0;
     width: 100%;
     background-color: #5C5C5C;
-    height: 105px;
+    height: 100px;
 
 }
 
 .navbar a {
-    font-size: 36px;
+    font-size: 24px;
     line-height: 36px;
-    font-family: The Next Font;
+    font-family: 'the_next_fontregular';
     float: right;
     display: block;
     color: #000000;
     text-align: center;
+    padding-top: 30px;
+    
     padding-right: 141px;
     text-decoration: none;
 }
 
 .navbar a:hover {
-    background-color: #ffffff;
-    color: black;
+    padding-bottom: 25px;
+    background-image: "./img/blackRectangle.png";
+
 }
 
 .main {
-    margin-top: 100px;
+    margin-top: 200px;
 }
