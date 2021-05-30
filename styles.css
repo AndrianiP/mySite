@@ -4,10 +4,24 @@
     top: 0;
     left: 0;
     width: 100%;
-    color: #5C5C5C;
+    background-color: #5C5C5C;
 
 }
 
 .navbar a {
-    
+    float: right;
+    display: block;
+    color: #c9c9c9;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ffffff;
+    color: black;
+}
+
+.main {
+    margin-top: 100px;
 }
