@@ -184,3 +184,21 @@ h6 {
     order:3;
     background-color: #C4C4C4;
 }
+
+.bottomRow {
+    width: 100%;
+}
+
+.bottomRow p {
+    position: relative;
+    font: auto;
+    text-align: left;
+    font-size: 18px;
+    line-height: 1.5em;
+    margin-left: 20%;
+}
+
+.container2 {
+    
+}
+
