@@ -168,39 +168,3 @@ h6 {
     z-index: 45;
     
 }
-
-.leftSide {
-    order:1;
-    background-color: #C4C4C4;
-    margin-left: 16.5%;
-
-}
-
-.center {
-    order:2;
-    background-color: #C4C4C4;
-
-}
-
-.rightSide {
-    order:3;
-    background-color: #C4C4C4;
-}
-
-.bottomRow {
-    width: 100%;
-}
-
-.bottomRow p {
-    position: relative;
-    font: auto;
-    text-align: left;
-    font-size: 18px;
-    line-height: 1.5em;
-    margin-left: 20%;
-}
-
-.container2 {
-    
-}
-
