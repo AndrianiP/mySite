@@ -111,7 +111,7 @@ body {
 .header-line{
     width: 100%;
     text-align: center;
-    border-bottom: 1px dotted black;
+    border-bottom: 2px dotted black;
     margin: 3.5em 0 4em;
 
 
@@ -142,11 +142,14 @@ body {
     background-color: #C4C4C4;
     margin-bottom: auto;
     
+    
 }
 
 .leftColumn p {
     display: block;
     align-content: space-between;
+    text-align:left; padding-left:1em; padding-right:1em
+    
 }
 
 .rightColumn {
