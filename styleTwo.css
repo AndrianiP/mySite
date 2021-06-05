@@ -32,7 +32,7 @@ h6 {
     top: 0;
     left: 0;
     width: 100%;
-    background: #096b0028;
+    background: #757575;
     height: 100px;
     z-index: 9999;
 }
@@ -41,8 +41,8 @@ h6 {
     text-align: center;
     font-family: 'the_next_fontregular';
     color: #000000;
-    padding: 0.5em 1.5em;
     text-decoration: none;
+    padding: 0.5em 1.5em;
     font-size: 24px;
     line-height: 100px;
 }
@@ -50,6 +50,7 @@ h6 {
 .navbar a:hover {
     background-color: #ddd;
     color: black;
+    transition: 0.25s;
     
 }
 .navbar a:active {
@@ -60,12 +61,25 @@ h6 {
 
 .navbar-right {
     float: right;
+    padding: 0.5em 1.5em;
     padding-right: 3em;
 }
 
 .navbar-left {
     float: left;
-    padding-left: 3em;
+    padding: 0 3em;
+    
+}
+
+.navbar-left img {
+    width: 60px;
+    bottom: 30px;
+    display: inline-flex;
+    height: auto;
+    background-color: burlywood;
+    top:50%;
+    left:100%;
+
 }
 
 body {
@@ -79,7 +93,7 @@ body {
 }
 
 .t-row img{
-    width: cover;
+    width:max-content;
     height: auto;
     margin-bottom: 10px;
 }
@@ -90,7 +104,7 @@ body {
     margin: 0 auto;
     width:50%;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background-color: blueviolet;
+
 
 }
 
@@ -99,10 +113,10 @@ body {
     text-align: center;
     border-bottom: 1px dotted black;
     margin: 3.5em 0 4em;
-    color: rgb(196, 92, 170);
+
 
 }
-
+    
 
 .header-line span {
     z-index: 20;
@@ -126,10 +140,13 @@ body {
     order:1;
     width: 100%;
     background-color: #C4C4C4;
+    margin-bottom: auto;
+    
 }
 
 .leftColumn p {
     display: block;
+    align-content: space-between;
 }
 
 .rightColumn {
