@@ -52,6 +52,7 @@ h6 {
 .navbar a:active {
   background-color: #73000a;
   color: white;
+  transition: 0.20s;
 }
 
 .navbar-right {
