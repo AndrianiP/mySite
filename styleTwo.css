@@ -132,6 +132,21 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+.header-line a:visited{
+    z-index: 200;
+    color: #000000;
+}
+
+.header-line a:hover{
+    z-index: 201;
+    color: white;
+    transition: 0.25s;
+}
+
+.header-line a:active {
+    color: #757575;
+}
+
 .subHeader-line{
     width: 70%;
     margin: 2em auto 1em auto;
@@ -181,10 +196,10 @@ body {
 
 
 
+
 .leftColumn {
   order: 1;
   width: 100%;
-  margin-bottom: auto;
 }
 
 .leftColumn p {
@@ -193,7 +208,6 @@ body {
     align-content: space-between;
     text-align: left;
     padding: 1em 1em 1em 1em;
-
 }
 
 .rightColumn {
@@ -204,8 +218,6 @@ body {
 
 .rightColumn img {
   align-content: space-around;
-  margin: 0 auto;
-  height: 340px;
   width: auto;
   align-items: center;
 }
