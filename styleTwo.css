@@ -11,6 +11,10 @@ html {
   height: auto;
 }
 
+a {
+  color: black;
+}
+
 h6 {
   font-size: 4;
   padding-left: 2em;
