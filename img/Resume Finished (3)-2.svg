@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="612pt" height="792pt" viewBox="0 0 612 792">
+<g enable-background="new">
+<clipPath id="cp3">
+<path d="M 0 0 L 612 0 L 612 792 L 0 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp3)">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M 0 0 L 816 0 L 816 1056 L 0 1056 Z " fill="#ffffff"/>
+</g>
+<clipPath id="cp4">
+<path d="M 0 0 L 612 0 L 612 792 L 0 792 Z " fill-rule="evenodd"/>
+</clipPath>
+<g clip-path="url(#cp4)">
+<text fill="#00ab44" xml:space="preserve" transform="matrix(.75 0 0 .75 36 36)" font-size="24" font-family="ProximaNova"><tspan y="22.08" x="0 14.063965 28.487915 34.223894 46.463853 58.70381">SKILLS</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 57.924074)" font-size="14.666667" font-family="ArialMT"><tspan y="19.090495" x="24">&#x25cf;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 57.924074)" font-size="14.666667" font-family="ArialMT"><tspan y="19.090495" x="48 55.328126 63.479234 70.80736">Java</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 77.10266)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="24">&#x25cf;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 77.10266)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="48 59.4001 62.65625">Git</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 92.28137)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="24">&#x25cf;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 92.28137)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="48 58.584276 67.536899 79.74567">HTML</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 107.46008)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="24">&#x25cf;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 107.46008)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="48 58.584276 68.35988">CSS</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 122.638797)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="24">&#x25cf;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 122.638797)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="48 58.584276 70.793048">UML</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 137.8175)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="24">&#x25cf;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 137.8175)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="48 59.4001 64.28075 72.431858 80.58296 88.73407 91.99022 99.318347 103.39032 113.974597 122.1257 129.45383 132.70998 140.86109">Graphic Design</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 152.99622)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="24">&#x25cf;</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 36 152.99622)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="48 57.775606 65.92671 74.07782 82.22893 86.3009 94.45201 102.60312 105.85927">Adaptable</tspan></text>
+</g>
+</g>
+</svg>
