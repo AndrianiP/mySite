@@ -238,9 +238,7 @@ body {
 }
 
 .rightColumn img {
-  align-content: space-around;
-  width: auto;
-  align-items: center;
+  
 }
 
 .rightColumn p {
@@ -251,6 +249,12 @@ body {
   padding: 1em 1em 1em 1em;
 
 }
+
+.rightColumn_AboutMe{
+  margin-left: 2em;
+  order:2;
+}
+
 
 .centerColumn {
   order: 2;
