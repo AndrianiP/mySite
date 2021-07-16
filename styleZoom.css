@@ -1,0 +1,14 @@
+.container {
+    position: absolute;
+    display: flex;
+    font-size: 16px;
+}
+
+.initial img{
+    width: 200px;
+}
+
+.middle img{
+    width: 1em;
+    height: 200px;
+}
