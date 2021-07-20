@@ -181,12 +181,13 @@ body {
     text-align: center;
     border-bottom: 2px dotted black;
 
+
 }
 
 .subHeader-line span {
     z-index: 50;
     position: absolute;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -55%);
     background-color: #c4c4c4;
     padding: 5px 10px;
     font-size: 20px;
